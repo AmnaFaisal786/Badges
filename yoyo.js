@@ -1,1 +1,1 @@
-console.log("This is YOYO.js");
+console.log("Hello");
